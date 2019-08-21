@@ -19,7 +19,7 @@ Moreover, as the Inventor of World Wide Web himself said the Web is Broken as is
 3. Introduction of a Universal Identity Systems where only user has all the control over his identity and can't be forged or seized by anyone.
 4. Introduction of Personalized Online Assistants which are controlled and managed by the user himself and filters every information and only shows the results which are relevant for that particulare user. 
 
-	If we look deeper into the Internet World we see some exciting technologies being developed which can fix the problems mentioned above and help humans move forward with immense speed unimaginable by our present generation of humanity or at least by most the people, some of which are
+If we look deeper into the Internet World we see some exciting technologies being developed which can fix the problems mentioned above and help humans move forward with immense speed unimaginable by our present generation of humanity or at least by most the people, some of which are
 1. Machine Learning (ML)
 2. Artificial Intelligence (AI)
 3. Neural Networks
@@ -29,12 +29,13 @@ Moreover, as the Inventor of World Wide Web himself said the Web is Broken as is
 7. Decentralized Autonomous Organizations (DAOs) 
 8. Human Machine Interface (HMI)
 
-	In order to build the Next Stage of Internet, we must have Open, Decentralized, Secure, Borderless Networks capable of running continously which can't be shut down by various Cyber attacks or some people who see them as a threat to their Present Business Models and are owned by the Users himself and not by any company which can change it to align with their profits and the data is owned by the user themselves.
-	One of such promising Technologies is the Blockchain where the code and data is maintained by anyone who wishes to use the network and the identity is maintained by using Cryptographic Techniques which ensures no single entity stores sensitive information like usernames and passwords but are managed by only the user itself.
+In order to build the Next Stage of Internet, we must have Open, Decentralized, Secure, Borderless Networks capable of running continously which can't be shut down by various Cyber attacks or some people who see them as a threat to their Present Business Models and are owned by the Users himself and not by any company which can change it to align with their profits and the data is owned by the user themselves.
+	
+One of such promising Technologies is the Blockchain where the code and data is maintained by anyone who wishes to use the network and the identity is maintained by using Cryptographic Techniques which ensures no single entity stores sensitive information like usernames and passwords but are managed by only the user itself.
 
-	The above networks not only provides the necessary infrastructure for a truly revolutionary networks but are also cheap to run as they can be run on individual Machines and the Database is shared across multiple computers which ensures no data is manipulated or deleted and can be accessed by anyone with high throughput.
+The above networks not only provides the necessary infrastructure for a truly revolutionary networks but are also cheap to run as they can be run on individual Machines and the Database is shared across multiple computers which ensures no data is manipulated or deleted and can be accessed by anyone with high throughput.
 
-	The above networks can be used to store all the events occuring on the network in a canonical format by putting the events/ transactions/ states into continously generated blocks which are timestamped and are linked to one-another using Cryptographic Algirithms like Hashing, Merkle Roots, etc. such that information once entered into blocks can't be changed later and the existence of any information can be verified by anyone at later time. Such networks are known as Blockchain Systems and are gaining lot of attention in recent years.  
+The above networks can be used to store all the events occuring on the network in a canonical format by putting the events/ transactions/ states into continously generated blocks which are timestamped and are linked to one-another using Cryptographic Algirithms like Hashing, Merkle Roots, etc. such that information once entered into blocks can't be changed later and the existence of any information can be verified by anyone at later time. Such networks are known as Blockchain Systems and are gaining lot of attention in recent years.  
 
 What we aim to achieve?
 An affordable Secured networking Solution which can be afforded by any organization and can be customized according to the needs of the organization to build Smart Self-Executing Applications which manage themselves as programmed and doesn't need large Human Resources to be developed, deployed and maintained to perform the operations of an organization.
@@ -50,6 +51,3 @@ What improvements does D-Net provides over traditional Internet Companies?
 5. All the data of a user will be encrypted with a secret-key and the data will be accessible only by the permissioned or Authorized users which removes the need for use of Complicated Authorization Codes which are controlled by external parties and can be compromised.
 6. Full deployment of the system will be on Distributed Computers owned by the organization which eliminates the need for external parties called Host providers like Godaddy which charges huge amounts even for storing data on their servers.
 7. Every user is able to connect to any node according to his needs as every node stores a table of all the IP Addresses known to be used by the system which eliminates the need for Domain providers like Google Domains or Amazon Web Services or Google Cloud Storage which again charges huge amounts even to provide a Domains.
- 
-
- 

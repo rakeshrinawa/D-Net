@@ -11,7 +11,7 @@ The Web 2.0 brings an interactive and dynamic web experience focused on the abil
 2. Web 2.0 is based on Location-addressing as it works on Internet Protocols where everything is accessed by its IP Address which acts as an identifier and the data is prone to censorship or could be deleted or modified if the Company desires to.
 3. No Enforced Personal Data Protection or Ownership Rules to protect the User's data from going into wrong hands which is leading to scandals like  Facebook-Cambridge Analytica data scandal where Personal Data of Millions of FB Users was harvested to change the outcome of elections which may damage the politics of a country.
 
-	Moreover, as the Inventor of World Wide Web himself said the Web is Broken as is more and more becoming a place of misinformation, hate speech, scammers and trolls and need to be fixed.
+Moreover, as the Inventor of World Wide Web himself said the Web is Broken as is more and more becoming a place of misinformation, hate speech, scammers and trolls and need to be fixed.
 
 	Some of the problems which we think we need to fix before its too late, are
 1. Providing a safe place for humans to find the right places they want to look for and not some options which are only profitable for the big companies and crushes new local companies before they  become substantial which severely hurts the economy of a nation in serious ways.
@@ -37,7 +37,7 @@ The Web 2.0 brings an interactive and dynamic web experience focused on the abil
 	The above networks can be used to store all the events occuring on the network in a canonical format by putting the events/ transactions/ states into continously generated blocks which are timestamped and are linked to one-another using Cryptographic Algirithms like Hashing, Merkle Roots, etc. such that information once entered into blocks can't be changed later and the existence of any information can be verified by anyone at later time. Such networks are known as Blockchain Systems and are gaining lot of attention in recent years.  
 
 What we aim to achieve?
-1. An affordable Secured networking Solution which can be afforded by any organization and can be customized according to the needs of the organization to build Smart Self-Executing Applications which manage themselves as programmed and doesn't need large Human Resources to be developed, deployed and maintained to perform the operations of an organization.
+An affordable Secured networking Solution which can be afforded by any organization and can be customized according to the needs of the organization to build Smart Self-Executing Applications which manage themselves as programmed and doesn't need large Human Resources to be developed, deployed and maintained to perform the operations of an organization.
 
 Who can use this Sytem?
 The system cam be used by any organization like a Bank, School, College, Hospital or any Digital Services provider using Internet to manage its data in whatever way it desires to.
@@ -50,7 +50,6 @@ What improvements does D-Net provides over traditional Internet Companies?
 5. All the data of a user will be encrypted with a secret-key and the data will be accessible only by the permissioned or Authorized users which removes the need for use of Complicated Authorization Codes which are controlled by external parties and can be compromised.
 6. Full deployment of the system will be on Distributed Computers owned by the organization which eliminates the need for external parties called Host providers like Godaddy which charges huge amounts even for storing data on their servers.
 7. Every user is able to connect to any node according to his needs as every node stores a table of all the IP Addresses known to be used by the system which eliminates the need for Domain providers like Google Domains or Amazon Web Services or Google Cloud Storage which again charges huge amounts even to provide a Domains.
-8. 
  
 
  
